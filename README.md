@@ -2,6 +2,6 @@
 
 <h2> Kullanılan Teknolijiler <h2>
  
- HTML ve CSS kullanılarak oluşturulmuştur.
+HTML ve CSS kullanılarak oluşturulmuştur.
 
- <h3> Ekran Görüntüsü<h3>
+<h3> Ekran Görüntüsü<h3>
